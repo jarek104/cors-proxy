@@ -1,0 +1,29 @@
+{
+  "name": "cors-proxy",
+  "version": "1.0.0",
+  "description": "Cors proxy",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarek104/cors-proxy.git"
+  },
+  "author": "Jerry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jarek104/cors-proxy/issues"
+  },
+  "homepage": "https://github.com/jarek104/cors-proxy#readme",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "koa-proxy": "^0.9.0",
+    "node-windows": "^0.1.14"
+  },
+  "devDependencies": {
+    "http-proxy-middleware": "^0.18.0"
+  }
+}

@@ -1,0 +1,6 @@
+2018-04-09 12:39:30 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\GITLAB\cors-proxy\node_modules\node-windows\lib\wrapper.js --file D:\GITLAB\cors-proxy\server.js --log "Cors Proxy wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-04-09 12:39:30 - Started 14348
+2018-04-09 12:42:29 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\GITLAB\cors-proxy\node_modules\node-windows\lib\wrapper.js --file D:\GITLAB\cors-proxy\server.js --log "Cors Proxy wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-04-09 12:42:29 - Started 2240
+2018-04-11 08:20:35 - Starting C:\Program Files\nodejs\node.exe  --harmony D:\GITLAB\cors-proxy\node_modules\node-windows\lib\wrapper.js --file D:\GITLAB\cors-proxy\server.js --log "Cors Proxy wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2018-04-11 08:20:35 - Started 5136
